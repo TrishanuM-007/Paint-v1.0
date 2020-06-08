@@ -1,2 +1,2 @@
-# Paint-v1.0
-My own paint app :)
+# p5.play-boilerplate
+Boiler plate for p5.play
